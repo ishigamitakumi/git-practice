@@ -1,0 +1,6 @@
+public class Main {
+  public static void main(String[] args ) {
+    double d =8.5 / 2; //int型(2)をdouble型(2.0)に変換
+    System.out.println(d);
+  }
+}
